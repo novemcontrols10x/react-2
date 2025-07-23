@@ -1,0 +1,11 @@
+@import "tailwindcss";
+
+
+.head{
+  background-color: red;
+}
+
+
+.bg-orange {
+  background-color: orange;
+}
